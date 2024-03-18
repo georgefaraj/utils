@@ -1,0 +1,52 @@
+[
+  {
+    "Name": "John",
+    "Age": "25",
+    "Gender": "Male"
+  },
+  {
+    "Name": "Emily",
+    "Age": "30",
+    "Gender": "Female"
+  },
+  {
+    "Name": "Michael",
+    "Age": "40",
+    "Gender": "Male"
+  },
+  {
+    "Name": "Sophia",
+    "Age": "35",
+    "Gender": "Female"
+  },
+  {
+    "Name": "William",
+    "Age": "28",
+    "Gender": "Male"
+  },
+  {
+    "Name": "Emma",
+    "Age": "33",
+    "Gender": "Female"
+  },
+  {
+    "Name": "James",
+    "Age": "45",
+    "Gender": "Male"
+  },
+  {
+    "Name": "Olivia",
+    "Age": "29",
+    "Gender": "Female"
+  },
+  {
+    "Name": "Daniel",
+    "Age": "32",
+    "Gender": "Male"
+  },
+  {
+    "Name": "Ava",
+    "Age": "27",
+    "Gender": "Female"
+  }
+]
