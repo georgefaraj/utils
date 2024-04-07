@@ -1,0 +1,14 @@
+sudo fdisk -l
+
+sudo mount /dev/sda1 /mnt/usb1
+
+df -h #ALL
+du -h #FILES
+
+tmux
+  CTR+b -> d
+tmux ls
+tmux attach
+
+ps -ef | grep -i qbittorrent | grep -v grep | awk '{print $2}'
+
